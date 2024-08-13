@@ -20,20 +20,16 @@
 - :baby: Iniciante na área de desenvolvimento.
 - :mag_right: Estou em busca de novas oportunidades na área.
 - :office: Estagiei na área de Security.
-- :chart_with_upwards_trend: Me desenvolvendo para me tornar back-end.
+- :chart_with_upwards_trend: Me desenvolvendo para me tornar uma dev back-end.
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
 
 ### :pencil: Minhas Skills
 
-<h4>Avançado</h4>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-</div>
-<h4>Intermediario</h4>
-<div align="left">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -48,9 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-<h4>Iniciante</h4>
-<div align="left">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
   <img width="12" />
