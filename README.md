@@ -1,14 +1,7 @@
 <div align="center">
   <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/43dcfc0a778a5910d296897f7009ba4533a55231/Perfil/LinkedIn%20cover%20-%203.svg"  />
 </div>
- <h1 align="center">
- 👋 Olá, meu nome é Sofia!
- 
- <div align="center">
-    <a href="https://www.linkedin.com/in/sofia-valadares-bastos/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-    <a href="https://discord.com/channels/@me"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  </div>
- </h1>
+
 
 ### :woman_technologist: Sobre mim :
 
@@ -23,7 +16,6 @@
 - :chart_with_upwards_trend: Me desenvolvendo para me tornar uma dev back-end.
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
 
-### :pencil: Minhas Skills
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
@@ -51,19 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-###
-</div>
-
-###
-</div>
-  
-###
 <div align="center">
-  <div  >
-  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=Soppinha&show_icons=true&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
-
- <img width="420"  src="https://github-readme-streak-stats.herokuapp.com?user=Soppinha&border_radius=8&locale=pt_BR&background=1B1B1B&border=5634DD&stroke=5634DD&ring=5634DD&fire=5634DD&currStreakNum=FFF9D8&sideNums=sideNums&currStreakLabel=5634DD&sideLabels=D3D3D3&sideNums=5634DD&dates=D3D3D3&excludeDaysLabel=D3D3D3" />
-</div>
-
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
 </div>
