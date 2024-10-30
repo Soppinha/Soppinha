@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="800" src="https://i.pinimg.com/originals/14/ae/7e/14ae7ede205573466d68eb3a562fe349.gif"  />
+  <img height="396" width="1584" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/LinkedIn%20cover.png"  />
 </div>
  <h1 align="center">
  👋 Olá, meu nome é Sofia!
