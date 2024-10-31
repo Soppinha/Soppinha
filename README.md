@@ -7,11 +7,11 @@
 <p>
 <img  height="50%" width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/Frame%20129.svg" />
 
-Desenvolvedora Full-Stack com paixão por construir soluções eficientes e escaláveis. Tenho experiência com várias tecnologias como Java, Spring Boot, Python e AWS, e estou sempre buscando implementar as melhores práticas de desenvolvimento para criar projetos funcionais e modernos.
+Desenvolvedora Full-Stack com paixão por construir soluções eficientes e escaláveis. Tenho experiência com várias tecnologias como Java, Spring Boot, Angular, Typescript, Python e AWS, e estou sempre buscando implementar as melhores práticas de desenvolvimento para criar projetos funcionais e modernos.
 
 Minha jornada na tecnologia começou há dois anos, e desde então tenho me dedicado a aprofundar meu conhecimento, especialmente em desenvolvimento de APIs. Valorizo muito o aprendizado contínuo e gosto de colaborar em projetos que desafiem minhas habilidades, contribuindo para soluções inovadoras.
 
-Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em Back-End. Fique à vontade para explorar meus projetos e entrar em contato – será um prazer conectar com você!
+Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades no Back-End. Fique à vontade para explorar meus projetos e entrar em contato – será um prazer conectar com você!
 </p>
 
 - :mortar_board: Formada em ADS pela faculdade SPTech.
