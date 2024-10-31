@@ -4,6 +4,8 @@
 
 <div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
 
+---
+
 <p>
 <img  height="50%" width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/Frame%20129.svg" />
 
@@ -21,6 +23,8 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 - Meu antigo GitHub: <https://github.com/SofiVBastos>
 
 <div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
+
+---
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -57,6 +61,8 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 </div>
 
 ###
+
+---
 
 <div style="width: 100%">
 
