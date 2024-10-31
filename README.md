@@ -1,5 +1,5 @@
 <div>
-  <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/LinkedIn%20cover.svg"  />
+  <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/4846942c4971e256067e3b4be128cb78298a7343/Perfil/LinkedIn%20cover.svg"  />
 </div>
 
 <div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
