@@ -1,5 +1,5 @@
 <div>
-  <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/67995963ac9695890fdc6e6d6cc48b6e96f0bfe9/Perfil/LinkedIn%20cover%20-%203.svg"  />
+  <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/LinkedIn%20cover.svg"  />
 </div>
 
 <div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
@@ -67,7 +67,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em 
 <table>
   <tr>
   <th><img style="width: 480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" /></th>
-  <th><img style="width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=000000&title_color=8345F5&text_color=FFFFFF&border_color=000000&border_radius=4&locale=pt-br" /></th>
+  <th><img style="width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=000000&title_color=9745F5&text_color=FFFFFF&border_color=000000&border_radius=4&locale=pt-br" /></th>
 </tr>
 </table>
 
