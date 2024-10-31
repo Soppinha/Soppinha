@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Soppinha/my-icons/4846942c4971e256067e3b4be128cb78298a7343/Perfil/LinkedIn%20cover.svg"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
 
 <p>
 <img  width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/Frame%20129.svg" />
@@ -22,7 +22,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 
 ###
 
-<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -58,7 +58,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
 
 ###
 
