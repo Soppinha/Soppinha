@@ -22,6 +22,8 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 
 ###
 
+<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
 
@@ -55,6 +57,8 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
 
 ###
 
