@@ -63,7 +63,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em 
 <img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soppinha&theme=midnight_purple" />
 
 <div style="display: flex">
-<img style="width: 200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" />
+<img style="width: 300px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" />
 
 <img style="width: 200xp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
 </div>
