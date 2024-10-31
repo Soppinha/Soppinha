@@ -22,7 +22,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
