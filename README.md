@@ -59,7 +59,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em 
 ###
 
 <div style="display: flex">
-<img style="width: 800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soppinha&theme=midnight_purple" />
+<img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soppinha&theme=midnight_purple" />
 </div>
 
 <div style="display: flex">
