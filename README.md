@@ -68,6 +68,8 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 <img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
 </div>
 
+<p> </p>
+
 <div style="width: 100%">
 
 <img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soppinha&theme=midnight_purple" />
