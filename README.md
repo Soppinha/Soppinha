@@ -18,7 +18,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 - :mag_right: Estou em busca de novas oportunidades na área.
 - :office: Estagiei na área de Security.
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
-- Meu antigo GitHub: <https://github.com/SofiVBastos>
+- :link: Meu antigo GitHub: <https://github.com/SofiVBastos>
 
 ###
 
