@@ -64,10 +64,10 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em 
 
 <div style="display: flex; gap: 100px">
 
-<table style="border: 2px solid #4CAF50; border-collapse: collapse;">
+<table>
   <tr>
-  <th style="width: 150px; border: 2px solid #4CAF50;"><img style="width: 480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" /></th>
-  <th style="width: 100px; border: 2px solid #4CAF50;"><img style="width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" /></th>
+  <th><img style="width: 480px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" /></th>
+  <th><img style="width: 500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" /></th>
 </tr>
 </table>
 
