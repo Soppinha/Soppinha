@@ -59,17 +59,14 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha expertise em 
 ###
 
 <div style="display: flex">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soppinha&theme=midnight_purple" />
-</div>
 
-<div>
+<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
 
 </div>
 
 <div style="display: flex">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soppinha&layout=compact&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soppinha&show_icons=true&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&card_width=100" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soppinha&show_icons=true&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&card_width=700)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soppinha&theme=midnight_purple&utcOffset=-3" />
 </div>
