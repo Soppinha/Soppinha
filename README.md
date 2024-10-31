@@ -2,8 +2,6 @@
   <img height="100%" width="100%" src="https://raw.githubusercontent.com/Soppinha/my-icons/4846942c4971e256067e3b4be128cb78298a7343/Perfil/LinkedIn%20cover.svg"  />
 </div>
 
-<div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
-
 ---
 
 <p>
@@ -22,9 +20,7 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
 - Meu antigo GitHub: <https://github.com/SofiVBastos>
 
-<div style="width: 100%; height: 0.5px; background-color: rgba(255, 255, 255, 0.5); margin-top: 20px; margin-bottom: 20px;"></div>
-
----
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -61,8 +57,6 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 </div>
 
 ###
-
----
 
 <div style="width: 100%">
 
