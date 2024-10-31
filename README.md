@@ -24,35 +24,35 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
 </div>
 
