@@ -23,17 +23,17 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 - :office: Estagiei na área de Security.
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
 - :link: Meu antigo GitHub: <https://github.com/SofiVBastos>
-
-<div align="center" style="display: flex; flex-direction: row; gap: 24px">
-  <a href="https://www.linkedin.com/in/sofia-valadares-bastos/" style="display: flex; flex-direction: row; align-items: center; gap: 4px">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" alt="linkedin logo"  />
+<div align="left" style="display: flex; gap: 16px;">
+  <a href="https://www.linkedin.com/in/sofia-valadares-bastos/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 4px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" alt="linkedin logo" />
     <p>Sofia Bastos</p>
   </a>
-  <a href="mailto:sofiavbastos@outlook.com" style="display: flex; flex-direction: row; align-items: center; gap: 4px">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="28" alt="microsoft-outlook logo"  />
+  <a href="mailto:sofiavbastos@outlook.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 4px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="28" alt="microsoft-outlook logo" />
     <p>sofiavbastos@outlook.com</p>
   </a>
 </div>
+
 
 ###
 
