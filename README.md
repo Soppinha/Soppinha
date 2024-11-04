@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/Soppinha/my-icons/4846942c4971e256067e3b4be128cb78298a7343/Perfil/LinkedIn%20cover.svg"  />
+  <img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/LinkedIn%20cover.svg"  />
 </div>
 
 <div>
@@ -9,7 +9,7 @@
 <p> </p>
 
 <p>
-<img  width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/11622f5eaa298c11e66e7c44a5dd802e3b457648/Perfil/Frame%20129.svg" />
+<img  width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/Frame%20129.svg" />
 
 Desenvolvedora Full-Stack com paixão por construir soluções eficientes e escaláveis. Tenho experiência com várias tecnologias como Java, Spring Boot, Angular, Typescript, Python e AWS, e estou sempre buscando implementar as melhores práticas de desenvolvimento para criar projetos funcionais e modernos.
 
@@ -23,6 +23,19 @@ Atualmente, estou explorando novas tecnologias e aprimorando minha habilidades n
 - :office: Estagiei na área de Security.
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
 - :link: Meu antigo GitHub: <https://github.com/SofiVBastos>
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a  style="display: flex;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <p>Sofia Bastos</p>
+  </a>
+  <a href="mailto:sofiavbastos@outlook.com" style="display: flex;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42" height="30" alt="microsoft-outlook logo"  />
+    <p>sofiavbastos@outlook.com</p>
+  </a>
+</div>
+
+###
 
 <div>
 <img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
