@@ -11,15 +11,16 @@
 <p>
 <img  width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/Frame%20129.svg" />
 
-<a href="https://www.linkedin.com/in/sofia-valadares-bastos/"  target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/sofia-valadares-bastos/"  target="_blank" rel="noopener noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
 </a>
-<a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="linkedin logo" />
-</a>
-<a href="mailto:sofiavbastos@outlook.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:sofiavbastos@outlook.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42" height="30" alt="microsoft-outlook logo"  />
 </a>
+<a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="linkedin logo" />
+</a>
+
   
 Desenvolvedora Full-Stack com paixão por construir soluções eficientes e escaláveis. Tenho experiência com várias tecnologias como Java, Spring Boot, Angular, Typescript, Python e AWS, e estou sempre buscando implementar as melhores práticas de desenvolvimento para criar projetos funcionais e modernos.
 
