@@ -1,13 +1,3 @@
-<div>
-  <img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/LinkedIn%20cover.svg"  />
-</div>
-
-<div>
-<img src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/line.svg" />
-</div>
-
-<p> </p>
-
 <p>
 <img  width="65%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/Frame%20129.svg" />
 
