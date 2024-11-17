@@ -9,7 +9,7 @@
 <p> </p>
 
 <p>
-<img  width="50%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/Frame%20129.svg" />
+<img  width="65%" src="https://raw.githubusercontent.com/Soppinha/my-icons/refs/heads/main/Perfil/Frame%20129.svg" />
 
 Desenvolvedora Full-Stack com paixão por construir soluções eficientes e escaláveis. Tenho experiência com várias tecnologias como Java, Spring Boot, Angular, Typescript, Python e AWS, e estou sempre buscando implementar as melhores práticas de desenvolvimento para criar projetos funcionais e modernos.
 
